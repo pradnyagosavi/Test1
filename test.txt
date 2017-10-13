@@ -1,0 +1,1 @@
+The above command will fetch the history of just the latest commit instead of all the commits of the last 14 years. A shallow clone is helpful if you're planning to submit a quick patch. Git 1.9 is relatively new, so you'll probably need to update your git installation before using this option.
